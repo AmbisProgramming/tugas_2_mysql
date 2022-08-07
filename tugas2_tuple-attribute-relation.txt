@@ -1,0 +1,12 @@
+1. Sebutkan pengertian dari tuple, attribute dan relation!
+-> tuple =  istilah row(baris) dalam relational database
+-> attribute =  istilah column(kolom) dalam relational database
+-> relation = istilah tabel dalam relational database yang terdiri dari baris dan kolom 
+2. a. NPM, Nama, Jenis kelamin, Jurusan, IPK
+2. b 57119789 Andi Gunawan Laki - Laki Akuntansi 3.29, 51319653 Leshi Puspitasari Wanita Hukum 3.60, 
+56719451 Maximilianus Anthoni Laki - Laki Ilmu Komputer 3.17
+2. c. 3.29, 	Maximilianus Anthoni, Laki - Laki, 57119789, 	Akuntansi
+3. Apakah pengertian dari Primary Key dan Candidate Key?
+Candidate key adalah satu atau beberapa kolom di dalam tabel yang bisa mengidentifikasi tiap baris dari tabel tersebut. 
+Selain tidak boleh ada data yang sama, kolom yang dikategorikan sebagai candidate key juga tidak boleh memiliki data kosong.  
+Primary key adalah kolom yang akan menjadi identitas dari setiap baris tabel.
